@@ -1,6 +1,6 @@
 {
-  "name": "crypto-pro",
-  "version": "2.5.2",
+  "name": "crypto-pro-web",
+  "version": "1.0.0",
   "description": "API для взаимодействия с КриптоПро",
   "main": "./lib/crypto-pro.js",
   "types": "./lib/crypto-pro.d.ts",
@@ -36,12 +36,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/vgoma/crypto-pro"
+    "url": "https://github.com/AleksAbramovWEB/crypto-pro-web"
   },
   "author": {
-    "name": "Vitalii Goma",
-    "email": "vgoma@yandex.ru",
-    "url": "https://github.com/vgoma"
+    "name": "Aleksandr Abramov",
+    "email": "AleksAbramovWEB@yandex.ru",
+    "url": "https://github.com/AleksAbramovWEB"
   },
   "keywords": [
     "crypto",
