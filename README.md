@@ -50,12 +50,7 @@
 ## Установка
 Для NPM:
 ```bash
-npm install crypto-pro
-```
-
-Для Yarn:
-```bash
-yarn add crypto-pro
+npm install crypto-pro-web
 ```
 
 Подключение пакета как UMD модуля через тэг script:
